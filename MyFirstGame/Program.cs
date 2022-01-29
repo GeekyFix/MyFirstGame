@@ -31,5 +31,5 @@ for (var i = 1; i <= numQuestions; i++)
 }
 
 Console.WriteLine();
-Console.WriteLine($"Your final score is {score} out of {numQuestions}");
+Console.WriteLine($"Your final score is {score} out of {numQuestions}!");
 Console.WriteLine();
